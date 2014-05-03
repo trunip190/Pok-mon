@@ -1,0 +1,53 @@
+	Picture: 	Name: 	Effect: 	Location:
+	Amulet Coin 	Double Money is Earnt from Battles 	Route 16
+	Black Belt 	Any Fighting Type Move's Power is increased by 10% 	Steal from other Trainers
+	BlackGlasses 	Any Dark Type Move's Power is increased by 10% 	Team Rocket Hideout
+	Blue Scarf 	When Attached, Raises Beauty Stat in Contests 	Ruby/Sapphire
+	Brightpowder 	Lowers Opponent's Accuracy 	Ruby/Sapphire
+	Charcoal 	Any Fire Type Move's Power is increased by 10% 	Celadon City
+	Choice Band 	Multiplies 1st Move Power by 1.5 if Physical 	Ruby/Sapphire
+	Cleanse Tag 	Wild Pokémon Encounter Rate Lowers 	Pokémon Tower
+	DeepSeaScale 	Clamperl's Special Defense increases by 100%. Evolves Clamperl to Gorebyss 	Ruby/Sapphire
+	DeepSeaTooth 	Clamperl's Special Attack increases by 100%. Evolves Clamperl to Huntail 	Ruby/Sapphire
+	Dragon Fang 	Any Dragon Type Move's Power is increased by 10% 	Wild Dragonair
+	Dragon Scale 	A Scale held by Dragon Types. Evolves Seadra into Kingdra when traded 	Water Path
+	Everstone 	Stops Evolution 	Route 10
+	Exp. Share 	This Pokémon gets EXP from battle even if it isnt used 	Route 15
+	Focus Band 	May prevent fainting 	Wild Machoke
+	Green Scarf 	When Attached, Raises Smart Stat in Contests 	Ruby/Sapphire
+	Hard Stone 	Any Rock Type Move's Power is increased by 10% 	Wild Graveler/Onix
+	King's Rock 	May cause Opponent to Flinch. Used to evolve Poliwhirl and Slowpoke 	Sevault Canyon
+	Lax Incense 	Enemy's Accuracy is lowered by 5%. Attach to Female Wobbuffet and breed to get Wynaut 	Lost Cave
+	Leftovers 	HP Increases by 1/16th each turn 	Route 12/Route 16 (Snorlax's spot)
+	Light Ball 	Pikachu's Special Attack increases by 100% 	Ruby/Sapphire
+	Lucky Egg 	Pokémon this Item is attached to gets more EXP in battle 	Wild Chansey
+	Lucky Punch 	If attached to Chansey, Critical Hit Ratio Rises 	Sevault Canyon
+	Macho Brace 	Lowers Speed but increases Effort Values 	Viridian Gym (Giovanni's spot)
+	Magnet 	Any Electric Type Move's Power is increased by 10% 	Wild Magneton
+	Mental Herb 	Prevents Attraction 	Ruby/Sapphire
+	Metal Coat 	Any Steel Type Move's Power is increased by 10%. Evolves Onix & Scyther when traded 	Memorial Pillar
+	Metal Powder 	If attached to Ditto, Ditto's Defense & Special Defense is Raised by 50% 	Wild Ditto
+	Miracle Seed 	Any Grass Type Move's Power is increased by 10% 	Celadon Game Corner
+	Mystic Water 	Any Water Type Move's Power is increased by 10% 	Celadon Game Corner
+	NeverMeltIce 	Any Ice Type Move's Power is increased by 10% 	Icefall Cave
+	Pink Scarf 	When Attached, Raises Cute Stat in Contests 	Ruby/Sapphire
+	Poison Barb 	Any Poison Type Move's Power is increased by 10% 	Wild Arbok
+	Quick Claw 	The Pokémon holding this may attack first 	Safari Zone
+	Red Scarf 	When Attached, Raises Cool Stat in Contests 	Ruby/Sapphire
+	Scope Lens 	Increases Chances of a Critical Hit 	Ruby/Sapphire
+	Sea Incense 	Any Water Type Move's Power is increased by 5%. Attach to Female Marill and breed to get Azurill 	Lost Cave
+	Sharp Beak 	Any Flying Type Move's Power is increased by 10% 	Wild Fearow
+	Shell Bell 	Raises HP by 1/8th of the damage inflicted onto the Opponent 	Ruby/Sapphire
+	Silk Scarf 	Any Normal Type Move's Power is increased by 10% 	Lost Cave
+	Silverpowder 	Any Bug Type Move's Power is increased by 10% 	Wild Venomoth
+	Smoke Ball 	You will always run from Wild Pokémon 	Celadon Game Corner
+	Soft Sand 	Any Ground Type Move's Power is increased by 10% 	Wild Sandslash
+	Soothe Bell 	Happiness Level Raises Easier 	Pokémon Tower (Mr. Fugi's spot)
+	Soul Dew 	Raises Latios' Special Defense by 50%. Raises Latias' Special Attack by 50%. 	Ruby/Sapphire
+	Spell Tag 	Any Ghost Type Move's Power is increased by 10% 	Wild Haunter
+	Stick 	If attached to Farfetch'd, Critical Hit Ratio Rises 	Vermilion City (Traded Farfetch'd)
+	Thick Club 	If attached to Cubone or Marowak, their Attack rises by 100% 	Wild Cubone/Marowak
+	TwistedSpoon 	Any Psychic Type Move's Power is increased by 10% 	Wild Abra/Kadabra
+	Up-Grade 	Evolves Porygon into Porygon2 when traded 	Rocket Warehouse
+	White Herb 	Cures any Status Condition 	Ruby/Sapphire
+	Yellow Scarf 	When Attached, Raises Tough Stat in Contests 	Ruby/Sapphire 

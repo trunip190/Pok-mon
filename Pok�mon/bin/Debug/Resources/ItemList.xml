@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<Data>
+	<RecoveryList Completed="true" >
+		<inventoryItem ID="H001" Name="Potion " Type="1" >Recovers 20 HP </inventoryItem>
+		<inventoryItem ID="H002" Name="Super Potion " Type="1" >Recovers 50 HP </inventoryItem>
+		<inventoryItem ID="H003" Name="Hyper Potion " Type="1" >Recovers 200 HP </inventoryItem>
+		<inventoryItem ID="H004" Name="Max Potion " Type="1" >Recovers All HP </inventoryItem>
+		<inventoryItem ID="H005" Name="Full Restore " Type="1" >Fully Recovers HP and Status Conditions </inventoryItem>
+		<inventoryItem ID="H006" Name="Berry Juice " Type="1" >Recovers 20 HP </inventoryItem>
+		<inventoryItem ID="H007" Name="Fresh Water " Type="1" >Recovers 50 HP </inventoryItem>
+		<inventoryItem ID="H008" Name="Soda Pop " Type="1" >Recovers 60 HP </inventoryItem>
+		<inventoryItem ID="H009" Name="Lemonade " Type="1" >Recovers 80 HP </inventoryItem>
+		<inventoryItem ID="H010" Name="Max Revive " Type="1" >Restores a Fainted Pokémon to it's Max HP </inventoryItem>
+		<inventoryItem ID="H011" Name="Revive " Type="1" >Restores a Fainted Pokémon to 1/2 of it's Max HP </inventoryItem>
+		<inventoryItem ID="H012" Name="Moo Moo Milk " Type="1" >Recovers 100 HP </inventoryItem>
+		<inventoryItem ID="H013" Name="Ether " Type="1" >Recovers 10 PP for a Move </inventoryItem>
+		<inventoryItem ID="H014" Name="Elixer " Type="1" >Recovers 10 PP for all Moves </inventoryItem>
+		<inventoryItem ID="H015" Name="Max Ether " Type="1" >Recovers all PP for a Move </inventoryItem>
+		<inventoryItem ID="H016" Name="Max Elixer " Type="1" >Recovers all PP for all Moves </inventoryItem>
+		<inventoryItem ID="H017" Name="Antidote " Type="1" >Recovers from Poison </inventoryItem>
+		<inventoryItem ID="H018" Name="Awakening " Type="1" >Recovers from Sleep </inventoryItem>
+		<inventoryItem ID="H019" Name="Blue Flute " Type="1" >Recovers from Sleep </inventoryItem>
+		<inventoryItem ID="H020" Name="Burn Heal " Type="1" >Recovers from Burn </inventoryItem>
+		<inventoryItem ID="H021" Name="Ice Heal " Type="1" >Recovers from being Frozen </inventoryItem>
+		<inventoryItem ID="H022" Name="Paralyz Heal " Type="1" >Recovers from Paralysis </inventoryItem>
+		<inventoryItem ID="H023" Name="Red Flute " Type="1" >Recovers from Attraction </inventoryItem>
+		<inventoryItem ID="H024" Name="Yellow Flute " Type="1" >Recovers from Confusion </inventoryItem>
+		<inventoryItem ID="H025" Name="Full Heal " Type="1" >Recovers from any Status Ailement </inventoryItem>
+		<inventoryItem ID="H026" Name="Lava Cookie " Type="1" >Recovers any Status Condition </inventoryItem>
+		<inventoryItem ID="H027" Name="Sacred Ash " Type="1" >Revives all Fainted Pokémon </inventoryItem>
+		<inventoryItem ID="H028" Name="Heal Powder " Type="1" >Recovers Any Status Condition. Bitter </inventoryItem>
+		<inventoryItem ID="H029" Name="Revival Herb " Type="1" >Recovers a Fainted Pokémon. Bitter </inventoryItem>
+		<inventoryItem ID="H030" Name="Energy Root " Type="1" >Recovers 200 HP. Bitter </inventoryItem>
+		<inventoryItem ID="H031" Name="Energypowder " Type="1" >Recovers 50 HP. Bitter </inventoryItem>
+
+	</RecoveryList>
+
+	<PokeballList Completed="true" >
+		<inventoryItem ID="P01" Name="Pokéball " Type="2" Power="1">Normal Chance of Catching a Pokémon </inventoryItem>
+		<inventoryItem ID="P02" Name="Great Ball " Type="2" Power="1.5">1.5x Chance of Catching a Pokémon than using a standard Pokéball </inventoryItem>
+		<inventoryItem ID="P03" Name="Ultra Ball " Type="2" Power="2">2x Chance of Catching a Pokémon than using a standard Pokéball </inventoryItem>
+		<inventoryItem ID="P04" Name="Masterball " Type="2" Power="255">Always captures the Pokémon. Only 1 </inventoryItem>
+		<inventoryItem ID="P05" Name="Premium Ball " Type="2" Power="1">Normal Chance of Catching a Pokémon </inventoryItem>
+		<inventoryItem ID="P06" Name="Dive Ball " Type="2" Power="0">If underwater, a 3.5 times chance of catching a Pokémon otherwise its a Normal Chance of Catching a Pokémon </inventoryItem>
+		<inventoryItem ID="P07" Name="Luxury Ball " Type="2" Power="0">Normal Chance of Catching a Pokémon, makes it easier for the Pokémon to like you </inventoryItem>
+		<inventoryItem ID="P08" Name="Nest Ball " Type="2" Power="0">The Lower the Pokémon's Level, the Higher chance of capture </inventoryItem>
+		<inventoryItem ID="P09" Name="Net Ball " Type="2" Power="0">Normal Chance of Catching a Pokémon unless it's a Bug or Water type in which it's a 3x normal chance </inventoryItem>
+		<inventoryItem ID="P10" Name="Repeat Ball " Type="2" Power="0">A 3 times chance of capturing Pokémon if you already have one of the same breed, otherwise it's a Normal Chance of Catching a Pokémon </inventoryItem>
+		<inventoryItem ID="P11" Name="Safari Ball " Type="2" Power="1.5">1.5x Chance of Catching a Pokémon. Safari Zone Only </inventoryItem>
+		<inventoryItem ID="P12" Name="Timer Ball " Type="2" Power="0">For Every Ten Turns in battle, the chance of catching the Pokémon rises </inventoryItem>
+	</PokeballList>
+
+	<TMList Completed="true" >
+		<inventoryItem ID="TM01" Name="Focus Punch" Type="3" >TM01 - Focus Punch</inventoryItem>
+		<inventoryItem ID="TM02" Name="Dragon Claw" Type="3" >TM02 - Dragon Claw</inventoryItem>
+		<inventoryItem ID="TM03" Name="Water Pulse" Type="3" >TM03 - Water Pulse</inventoryItem>
+		<inventoryItem ID="TM04" Name="Calm Mind" Type="3" >TM04 - Calm Mind</inventoryItem>
+		<inventoryItem ID="TM05" Name="Roar" Type="3" >TM05 - Roar</inventoryItem>
+		<inventoryItem ID="TM06" Name="Toxic" Type="3" >TM06 - Toxic</inventoryItem>
+		<inventoryItem ID="TM07" Name="Hail" Type="3" >TM07 - Hail</inventoryItem>
+		<inventoryItem ID="TM08" Name="Bulk Up" Type="3" >TM08 - Bulk Up</inventoryItem>
+		<inventoryItem ID="TM09" Name="Bullet Seed" Type="3" >TM09 - Bullet Seed</inventoryItem>
+		<inventoryItem ID="TM10" Name="Hidden Power" Type="3" >TM10 - Hidden Power</inventoryItem>
+		<inventoryItem ID="TM11" Name="Sunny Day" Type="3" >TM11 - Sunny Day</inventoryItem>
+		<inventoryItem ID="TM12" Name="Taunt" Type="3" >TM12 - Taunt</inventoryItem>
+		<inventoryItem ID="TM13" Name="Ice Beam" Type="3" >TM13 - Ice Beam</inventoryItem>
+		<inventoryItem ID="TM14" Name="Blizzard" Type="3" >TM14 - Blizzard</inventoryItem>
+		<inventoryItem ID="TM15" Name="Hyper Beam" Type="3" >TM15 - Hyper Beam</inventoryItem>
+		<inventoryItem ID="TM16" Name="Light Screen" Type="3" >TM16 - Light Screen</inventoryItem>
+		<inventoryItem ID="TM17" Name="Protect" Type="3" >TM17 - Protect</inventoryItem>
+		<inventoryItem ID="TM18" Name="Rain Dance" Type="3" >TM18 - Rain Dance</inventoryItem>
+		<inventoryItem ID="TM19" Name="Giga Drain" Type="3" >TM19 - Giga Drain</inventoryItem>
+		<inventoryItem ID="TM20" Name="Safeguard" Type="3" >TM20 - Safeguard</inventoryItem>
+		<inventoryItem ID="TM21" Name="Frustration" Type="3" >TM21 - Frustration</inventoryItem>
+		<inventoryItem ID="TM22" Name="Solarbeam" Type="3" >TM22 - Solarbeam</inventoryItem>
+		<inventoryItem ID="TM23" Name="Iron Tail" Type="3" >TM23 - Iron Tail</inventoryItem>
+		<inventoryItem ID="TM24" Name="Thunderbolt" Type="3" >TM24 - Thunderbolt</inventoryItem>
+		<inventoryItem ID="TM25" Name="Thunder" Type="3" >TM25 - Thunder</inventoryItem>
+		<inventoryItem ID="TM26" Name="Earthquake" Type="3" >TM26 - Earthquake</inventoryItem>
+		<inventoryItem ID="TM27" Name="Return" Type="3" >TM27 - Return</inventoryItem>
+		<inventoryItem ID="TM28" Name="Dig" Type="3" >TM28 - Dig</inventoryItem>
+		<inventoryItem ID="TM29" Name="Psychic" Type="3" >TM29 - Psychic</inventoryItem>
+		<inventoryItem ID="TM30" Name="Shadow Ball" Type="3" >TM30 - Shadow Ball</inventoryItem>
+		<inventoryItem ID="TM31" Name="Brick Break" Type="3" >TM31 - Brick Break</inventoryItem>
+		<inventoryItem ID="TM32" Name="Double Team" Type="3" >TM32 - Double Team</inventoryItem>
+		<inventoryItem ID="TM33" Name="Reflect" Type="3" >TM33 - Reflect</inventoryItem>
+		<inventoryItem ID="TM34" Name="Shock Wave" Type="3" >TM34 - Shock Wave</inventoryItem>
+		<inventoryItem ID="TM35" Name="Flamethrower" Type="3" >TM35 - Flamethrower</inventoryItem>
+		<inventoryItem ID="TM36" Name="Sludge Bomb" Type="3" >TM36 - Sludge Bomb</inventoryItem>
+		<inventoryItem ID="TM37" Name="Sandstorm" Type="3" >TM37 - Sandstorm</inventoryItem>
+		<inventoryItem ID="TM38" Name="Fire Blast" Type="3" >TM38 - Fire Blast</inventoryItem>
+		<inventoryItem ID="TM39" Name="Rock Tomb" Type="3" >TM39 - Rock Tomb</inventoryItem>
+		<inventoryItem ID="TM40" Name="Aerial Ace" Type="3" >TM40 - Aerial Ace</inventoryItem>
+		<inventoryItem ID="TM41" Name="Torment" Type="3" >TM41 - Torment</inventoryItem>
+		<inventoryItem ID="TM42" Name="Facade" Type="3" >TM42 - Facade</inventoryItem>
+		<inventoryItem ID="TM43" Name="Secret Power" Type="3" >TM43 - Secret Power</inventoryItem>
+		<inventoryItem ID="TM44" Name="Rest" Type="3" >TM44 - Rest</inventoryItem>
+		<inventoryItem ID="TM45" Name="Attract" Type="3" >TM45 - Attract</inventoryItem>
+		<inventoryItem ID="TM46" Name="Theif" Type="3" >TM46 - Theif</inventoryItem>
+		<inventoryItem ID="TM47" Name="Steel Wing" Type="3" >TM47 - Steel Wing</inventoryItem>
+		<inventoryItem ID="TM48" Name="Skill Swap" Type="3" >TM48 - Skill Swap</inventoryItem>
+		<inventoryItem ID="TM49" Name="Snatch" Type="3" >TM49 - Snatch</inventoryItem>
+		<inventoryItem ID="TM50" Name="Overheat" Type="3" >TM50 - Overheat</inventoryItem>
+	</TMList>
+
+	<BerryList Completed="true" >
+		<inventoryItem ID="BE1" Name="Cheri Berry" Type="4" >Heals Paralysis</inventoryItem>
+		<inventoryItem ID="BE2" Name="Chesto Berry" Type="4" >Heals Sleeping</inventoryItem>
+		<inventoryItem ID="BE3" Name="Pecha Berry" Type="4" >Heals Poison</inventoryItem>
+		<inventoryItem ID="BE4" Name="Rawst Berry" Type="4" >Heals Burn</inventoryItem>
+		<inventoryItem ID="BE5" Name="Aspear Berry" Type="4" >Heals Frozen Status</inventoryItem>
+		<inventoryItem ID="BE6" Name="Leppa Berry" Type="4" >Recovers 10PP to an attack</inventoryItem>
+		<inventoryItem ID="BE7" Name="Oran Berry" Type="4" >Recovers 10HP</inventoryItem>
+		<inventoryItem ID="BE8" Name="Persim Berry" Type="4" >Heals Confusion</inventoryItem>
+		<inventoryItem ID="BE9" Name="Lum Berry" Type="4" >Heals Any Status Condition</inventoryItem>
+		<inventoryItem ID="BE10" Name="Sitrus Berry" Type="4" >Recovers 30HP</inventoryItem>
+		<inventoryItem ID="BE11" Name="Figy Berry" Type="4" >Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Spicy Flavour</inventoryItem>
+		<inventoryItem ID="BE12" Name="Wiki Berry" Type="4" >Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Dry Flavour</inventoryItem>
+		<inventoryItem ID="BE13" Name="Mago Berry" Type="4" >Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Sweet Flavour</inventoryItem>
+		<inventoryItem ID="BE14" Name="Aguav Berry" Type="4" >Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Bitter Flavour</inventoryItem>
+		<inventoryItem ID="BE15" Name="Iapapa Berry" Type="4" >Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Sour Flavour</inventoryItem>
+		<inventoryItem ID="BE16" Name="Razz Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE17" Name="Bluk Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE18" Name="Nanab Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE19" Name="Wepear Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE20" Name="Pinap Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE21" Name="Pomeg Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE22" Name="Kelpsy Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE23" Name="Qualot Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE24" Name="Hondew Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE25" Name="Grepa Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE26" Name="Tamato Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE27" Name="Cornn Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE28" Name="Magost Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE29" Name="Rabuta Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE30" Name="Nomel Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE31" Name="Spelon Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE32" Name="Pamtre Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE33" Name="Watmel Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE34" Name="Durin Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE35" Name="Belue Berry" Type="4" >Plant in the Earth to grow Berries for PokÃ©blocks</inventoryItem>
+		<inventoryItem ID="BE36" Name="Liechi Berry" Type="4" >Raises Attack when HP is below 1/3</inventoryItem>
+		<inventoryItem ID="BE37" Name="Ganlon Berry" Type="4" >Raises Defense when HP is below 1/3</inventoryItem>
+		<inventoryItem ID="BE38" Name="Salac Berry" Type="4" >Raises Speed when HP is below 1/3</inventoryItem>
+		<inventoryItem ID="BE39" Name="Petaya Berry" Type="4" >Raises Special Attack when HP is below 1/3</inventoryItem>
+		<inventoryItem ID="BE40" Name="Apicot Berry" Type="4" >Raises Special Defense when HP is below 1/3</inventoryItem>
+		<inventoryItem ID="BE41" Name="Lansat Berry" Type="4" >Raises Critical Hit Ratio when HP is below 1/3</inventoryItem>
+		<inventoryItem ID="BE42" Name="Starf Berry" Type="4" >Raises Any Stat when HP is below 1/3</inventoryItem>
+		<inventoryItem ID="BE43" Name="Enigma Berry" Type="4" >Morphs into E-Reader Berries</inventoryItem>
+
+	</BerryList>
+
+	<MainItemList Completed="true" >
+		<inventoryItem ID="AT001" Name="Amulet Coin" Type="5" >Double Money is Earnt from Battles </inventoryItem>
+		<inventoryItem ID="AT002" Name="Black Belt" Type="5" >Any Fighting Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT003" Name="BlackGlasses" Type="5" >Any Dark Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT004" Name="Blue Scarf" Type="5" >When Attached, Raises Beauty Stat in Contests </inventoryItem>
+		<inventoryItem ID="AT005" Name="Brightpowder" Type="5" >Lowers Opponent's Accuracy </inventoryItem>
+		<inventoryItem ID="AT006" Name="Charcoal" Type="5" >Any Fire Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT007" Name="Choice Band" Type="5" >Multiplies 1st Move Power by 1.5 if Physical </inventoryItem>
+		<inventoryItem ID="AT008" Name="Cleanse Tag" Type="5" >Wild Pokémon Encounter Rate Lowers </inventoryItem>
+		<inventoryItem ID="AT009" Name="DeepSeaScale" Type="5" >Clamperl's Special Defense increases by 100%. Evolves Clamperl to Gorebyss </inventoryItem>
+		<inventoryItem ID="AT010" Name="DeepSeaTooth" Type="5" >Clamperl's Special Attack increases by 100%. Evolves Clamperl to Huntail </inventoryItem>
+		<inventoryItem ID="AT011" Name="Dragon Fang" Type="5" >Any Dragon Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT012" Name="Dragon Scale" Type="5" >A Scale held by Dragon Types. Evolves Seadra into Kingdra when traded </inventoryItem>
+		<inventoryItem ID="AT013" Name="Everstone" Type="5" >Stops Evolution </inventoryItem>
+		<inventoryItem ID="AT014" Name="Exp. Share" Type="5" >This Pokémon gets EXP from battle even if it isnt used </inventoryItem>
+		<inventoryItem ID="AT015" Name="Focus Band" Type="5" >May prevent fainting </inventoryItem>
+		<inventoryItem ID="AT016" Name="Green Scarf" Type="5" >When Attached, Raises Smart Stat in Contests </inventoryItem>
+		<inventoryItem ID="AT017" Name="Hard Stone" Type="5" >Any Rock Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT018" Name="King's Rock" Type="5" >May cause Opponent to Flinch. Used to evolve Poliwhirl and Slowpoke </inventoryItem>
+		<inventoryItem ID="AT019" Name="Lax Incense" Type="5" >Enemy's Accuracy is lowered by 5%. Attach to Female Wobbuffet and breed to get Wynaut </inventoryItem>
+		<inventoryItem ID="AT020" Name="Leftovers" Type="5" >HP Increases by 1/16th each turn </inventoryItem>
+		<inventoryItem ID="AT021" Name="Light Ball" Type="5" >Pikachu's Special Attack increases by 100% </inventoryItem>
+		<inventoryItem ID="AT022" Name="Lucky Egg" Type="5" >Pokémon this Item is attached to gets more EXP in battle </inventoryItem>
+		<inventoryItem ID="AT023" Name="Lucky Punch" Type="5" >If attached to Chansey, Critical Hit Ratio Rises </inventoryItem>
+		<inventoryItem ID="AT024" Name="Macho Brace" Type="5" >Lowers Speed but increases Effort Values </inventoryItem>
+		<inventoryItem ID="AT025" Name="Magnet" Type="5" >Any Electric Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT026" Name="Mental Herb" Type="5" >Prevents Attraction </inventoryItem>
+		<inventoryItem ID="AT027" Name="Metal Coat" Type="5" >Any Steel Type Move's Power is increased by 10%. Evolves Onix + Scyther when traded </inventoryItem>
+		<inventoryItem ID="AT028" Name="Metal Powder" Type="5" >If attached to Ditto, Ditto's Defense + Special Defense is Raised by 50% </inventoryItem>
+		<inventoryItem ID="AT029" Name="Miracle Seed" Type="5" >Any Grass Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT030" Name="Mystic Water" Type="5" >Any Water Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT031" Name="NeverMeltIce" Type="5" >Any Ice Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT032" Name="Pink Scarf" Type="5" >When Attached, Raises Cute Stat in Contests </inventoryItem>
+		<inventoryItem ID="AT033" Name="Poison Barb" Type="5" >Any Poison Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT034" Name="Quick Claw" Type="5" >The Pokémon holding this may attack first </inventoryItem>
+		<inventoryItem ID="AT035" Name="Red Scarf" Type="5" >When Attached, Raises Cool Stat in Contests </inventoryItem>
+		<inventoryItem ID="AT036" Name="Scope Lens" Type="5" >Increases Chances of a Critical Hit </inventoryItem>
+		<inventoryItem ID="AT037" Name="Sea Incense" Type="5" >Any Water Type Move's Power is increased by 5%. Attach to Female Marill and breed to get Azurill </inventoryItem>
+		<inventoryItem ID="AT038" Name="Sharp Beak" Type="5" >Any Flying Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT039" Name="Shell Bell" Type="5" >Raises HP by 1/8th of the damage inflicted onto the Opponent </inventoryItem>
+		<inventoryItem ID="AT040" Name="Silk Scarf" Type="5" >Any Normal Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT041" Name="Silverpowder" Type="5" >Any Bug Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT042" Name="Smoke Ball" Type="5" >You will always run from Wild Pokémon </inventoryItem>
+		<inventoryItem ID="AT043" Name="Soft Sand" Type="5" >Any Ground Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT044" Name="Soothe Bell" Type="5" >Happiness Level Raises Easier </inventoryItem>
+		<inventoryItem ID="AT045" Name="Soul Dew" Type="5" >Raises Latios' Special Defense by 50%. Raises Latias' Special Attack by 50%. </inventoryItem>
+		<inventoryItem ID="AT046" Name="Spell Tag" Type="5" >Any Ghost Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT047" Name="Stick" Type="5" >If attached to Farfetch'd, Critical Hit Ratio Rises </inventoryItem>
+		<inventoryItem ID="AT048" Name="Thick Club" Type="5" >If attached to Cubone or Marowak, their Attack rises by 100% </inventoryItem>
+		<inventoryItem ID="AT049" Name="TwistedSpoon" Type="5" >Any Psychic Type Move's Power is increased by 10% </inventoryItem>
+		<inventoryItem ID="AT050" Name="Up-Grade" Type="5" >Evolves Porygon into Porygon2 when traded </inventoryItem>
+		<inventoryItem ID="AT051" Name="White Herb" Type="5" >Cures any Status Condition </inventoryItem>
+		<inventoryItem ID="AT052" Name="Yellow Scarf" Type="5" >When Attached, Raises Tough Stat in Contests </inventoryItem>
+
+	</MainItemList>
+
+	<KeyItemList Completed="true" >
+		<inventoryItem ID="KEY001" Name="Aurora Ticket " Type="6" >Allows you to go to Island 9 - Birth Island </inventoryItem>
+		<inventoryItem ID="KEY002" Name="Berry Pouch " Type="6" >Oraganises and holds your Berries </inventoryItem>
+		<inventoryItem ID="KEY003" Name="Bike " Type="6" >Allows for Fast Travel </inventoryItem>
+		<inventoryItem ID="KEY004" Name="Bike Voucher " Type="6" >Trade for a Bike </inventoryItem>
+		<inventoryItem ID="KEY005" Name="Card Key " Type="6" >Unlocks Doors in Silph. Co. </inventoryItem>
+		<inventoryItem ID="KEY006" Name="Coin Case " Type="6" >Holds Game Corner Coins </inventoryItem>
+		<inventoryItem ID="KEY007" Name="Dome Fossil " Type="6" >Ressurrects into Kabuto </inventoryItem>
+		<inventoryItem ID="KEY008" Name="Elevator Key " Type="6" >Powers the Elevator </inventoryItem>
+		<inventoryItem ID="KEY009" Name="Gold Teeth " Type="6" >The Warden's Gold Teeth </inventoryItem>
+		<inventoryItem ID="KEY010" Name="Good Rod " Type="6" >Hooks Water Pokémon </inventoryItem>
+		<inventoryItem ID="KEY011" Name="Helix Fossil " Type="6" >Ressurrects into Omanyte </inventoryItem>
+		<inventoryItem ID="KEY012" Name="Itemfinder " Type="6" >Finds Hidden Items </inventoryItem>
+		<inventoryItem ID="KEY013" Name="Meteorite " Type="6" >Contains Cosmic Energy - Trade for Moonstone on Island 2 </inventoryItem>
+		<inventoryItem ID="KEY014" Name="MysticTicket " Type="6" >Allows you to go to Island 8 - Navel Cavern </inventoryItem>
+		<inventoryItem ID="KEY015" Name="Oak's Parcel " Type="6" >Parcel To Give To Oak </inventoryItem>
+		<inventoryItem ID="KEY016" Name="Old Amber " Type="6" >Ressurrects into Aerodactyl </inventoryItem>
+		<inventoryItem ID="KEY017" Name="Old Rod " Type="6" >Hooks Water Pokémon </inventoryItem>
+		<inventoryItem ID="KEY018" Name="Pokéflute " Type="6" >Wakes Sleeping Pokémon </inventoryItem>
+		<inventoryItem ID="KEY019" Name="Powder Jar " Type="6" >Allows you to Crush Berries </inventoryItem>
+		<inventoryItem ID="KEY020" Name="Rainbow Pass " Type="6" >Allows You to go to Rainbow Islands 4, 5, 6 + 7 </inventoryItem>
+		<inventoryItem ID="KEY021" Name="Ruby Plate " Type="6" >Powers Time Machine </inventoryItem>
+		<inventoryItem ID="KEY022" Name="S.S. Ticket " Type="6" >Allows You To Board the S.S. Anne </inventoryItem>
+		<inventoryItem ID="KEY023" Name="Sapphire Plate " Type="6" >Powers Time Machine </inventoryItem>
+		<inventoryItem ID="KEY024" Name="Secret Key " Type="6" >Unlock's Cinnibar Gym </inventoryItem>
+		<inventoryItem ID="KEY025" Name="Silph Scope " Type="6" >Allows you to see Ghost Pokémon </inventoryItem>
+		<inventoryItem ID="KEY026" Name="Super Rod " Type="6" >Hooks Water Pokémon </inventoryItem>
+		<inventoryItem ID="KEY027" Name="Tea " Type="6" >Allows you to go into Saffron </inventoryItem>
+		<inventoryItem ID="KEY028" Name="Teachy TV " Type="6" >Teaches you how to play the game </inventoryItem>
+		<inventoryItem ID="KEY029" Name="TM Case " Type="6" >Oraganises and holds your TMs </inventoryItem>
+		<inventoryItem ID="KEY030" Name="Town Map " Type="6" >Allows you to view Kanto + Rainbow Islands </inventoryItem>
+		<inventoryItem ID="KEY031" Name="Tri Pass " Type="6" >Allows You to go to Rainbow Islands 1, 2 + 3 whenever you want </inventoryItem>
+		<inventoryItem ID="KEY032" Name="Voice Checker " Type="6" >Keeps Track of Trainers and signs </inventoryItem>
+		<inventoryItem ID="KEY033" Name="VS Seeker " Type="6" >Sees if Trainers want to re-match </inventoryItem>
+	</KeyItemList>
+
+</Data>

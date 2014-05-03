@@ -1,0 +1,34 @@
+Picture 	Name 	Effect 	Location
+	Aurora Ticket 	Allows you to go to Island 9 - Birth Island 	Mystery Gift at Nintendo Event
+	Berry Pouch 	Oraganises and holds your Berries 	Route 24/SS Anne
+	Bike 	Allows for Fast Travel 	Cerulean City Bike Shop
+	Bike Voucher 	Trade for a Bike 	Vermillion City Pkmn Fan Club
+	Card Key 	Unlocks Doors in Silph. Co. 	Silph Co. 5th Floor
+	Coin Case 	Holds Game Corner Coins 	Celadon City
+	Dome Fossil 	Ressurrects into Kabuto 	Mt. Moon (Left)
+	Elevator Key 	Powers the Elevator 	Celadon City Rocket HQ
+	Gold Teeth 	The Warden's Gold Teeth 	Safari Zone
+	Good Rod 	Hooks Water Pokémon 	Fuchia City
+	Helix Fossil 	Ressurrects into Omanyte 	Mt. Moon (Right)
+	Itemfinder 	Finds Hidden Items 	Route 12
+	Meteorite 	Contains Cosmic Energy - Trade for Moonstone on Island 2 	Rainbow Island 1
+	MysticTicket 	Allows you to go to Island 8 - Navel Cavern 	Mystery Gift at Nintendo Event
+	Oak's Parcel 	Parcel To Give To Oak 	Viridian City
+	Old Amber 	Ressurrects into Aerodactyl 	Pewter City Museum
+	Old Rod 	Hooks Water Pokémon 	Vermillion City
+	Pokéflute 	Wakes Sleeping Pokémon 	Lavender Town
+	Powder Jar 	Allows you to Crush Berries 	Cerulean City
+	Rainbow Pass 	Allows You to go to Rainbow Islands 4, 5, 6 & 7 	Rainbow Island 1
+	Ruby Plate 	Powers Time Machine 	Rainbow Island 1 Cave
+	S.S. Ticket 	Allows You To Board the S.S. Anne 	Bill's House
+	Sapphire Plate 	Powers Time Machine 	Rainbow Island 5 Rocket HQ
+	Secret Key 	Unlock's Cinnibar Gym 	Pokémon Mansion
+	Silph Scope 	Allows you to see Ghost Pokémon 	Celadon City Rocket HQ
+	Super Rod 	Hooks Water Pokémon 	Route 12
+	Tea 	Allows you to go into Saffron 	Celadon Mansion
+	Teachy TV 	Teaches you how to play the game 	Viridian City
+	TM Case 	Oraganises and holds your TMs 	Pewter Gym
+	Town Map 	Allows you to view Kanto & Rainbow Islands 	Gary's House, Pallet Town
+	Tri Pass 	Allows You to go to Rainbow Islands 1, 2 & 3 whenever you want 	Rainbow Island 3
+	Voice Checker 	Keeps Track of Trainers and signs 	Route 23
+	VS Seeker 	Sees if Trainers want to re-match 	Vermillion City Pokémon Center

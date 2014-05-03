@@ -1,0 +1,43 @@
+1#Cheri Berry#Heals Paralysis
+2#Chesto Berry#Heals Sleeping
+3#Pecha Berry#Heals Poison
+4#Rawst Berry#Heals Burn
+5#Aspear Berry#Heals Frozen Status
+6#Leppa Berry#Recovers 10PP to an attack
+7#Oran Berry#Recovers 10HP
+8#Persim Berry#Heals Confusion
+9#Lum Berry#Heals Any Status Condition
+10#Sitrus Berry#Recovers 30HP
+11#Figy Berry#Recovers 1/8 HP and confuses any Pokémon that doesnt like Spicy Flavour
+12#Wiki Berry#Recovers 1/8 HP and confuses any Pokémon that doesnt like Dry Flavour
+13#Mago Berry#Recovers 1/8 HP and confuses any Pokémon that doesnt like Sweet Flavour
+14#Aguav Berry#Recovers 1/8 HP and confuses any Pokémon that doesnt like Bitter Flavour
+15#Iapapa Berry#Recovers 1/8 HP and confuses any Pokémon that doesnt like Sour Flavour
+16#Razz Berry#Plant in the Earth to grow Berries for Pokéblocks
+17#Bluk Berry#Plant in the Earth to grow Berries for Pokéblocks
+18#Nanab Berry#Plant in the Earth to grow Berries for Pokéblocks
+19#Wepear Berry#Plant in the Earth to grow Berries for Pokéblocks
+20#Pinap Berry#Plant in the Earth to grow Berries for Pokéblocks
+21#Pomeg Berry#Plant in the Earth to grow Berries for Pokéblocks
+22#Kelpsy Berry#Plant in the Earth to grow Berries for Pokéblocks
+23#Qualot Berry#Plant in the Earth to grow Berries for Pokéblocks
+24#Hondew Berry#Plant in the Earth to grow Berries for Pokéblocks
+25#Grepa Berry#Plant in the Earth to grow Berries for Pokéblocks
+26#Tamato Berry#Plant in the Earth to grow Berries for Pokéblocks
+27#Cornn Berry#Plant in the Earth to grow Berries for Pokéblocks
+28#Magost Berry#Plant in the Earth to grow Berries for Pokéblocks
+29#Rabuta Berry#Plant in the Earth to grow Berries for Pokéblocks
+30#Nomel Berry#Plant in the Earth to grow Berries for Pokéblocks
+31#Spelon Berry#Plant in the Earth to grow Berries for Pokéblocks
+32#Pamtre Berry#Plant in the Earth to grow Berries for Pokéblocks
+33#Watmel Berry#Plant in the Earth to grow Berries for Pokéblocks
+34#Durin Berry#Plant in the Earth to grow Berries for Pokéblocks
+35#Belue Berry#Plant in the Earth to grow Berries for Pokéblocks
+36#Liechi Berry#Raises Attack when HP is below 1/3
+37#Ganlon Berry#Raises Defense when HP is below 1/3
+38#Salac Berry#Raises Speed when HP is below 1/3
+39#Petaya Berry#Raises Special Attack when HP is below 1/3
+40#Apicot Berry#Raises Special Defense when HP is below 1/3
+41#Lansat Berry#Raises Critical Hit Ratio when HP is below 1/3
+42#Starf Berry#Raises Any Stat when HP is below 1/3
+43#Enigma Berry#Morphs into E-Reader Berries

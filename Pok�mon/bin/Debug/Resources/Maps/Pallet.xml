@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Pallet</name>
+  <width>5</width>
+  <height>5</height>
+  <floor />
+  <baseList>
+    <SpriteBase xsi:type="SpriteTerrain">
+      <ID>ba000</ID>
+      <Type>1</Type>
+      <xPos>1</xPos>
+      <yPos>1</yPos>
+      <xStart>160</xStart>
+      <yStart>64</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\trees.png</spriteSheet>
+      <visible>true</visible>
+      <block>0</block>
+      <Name>Grass</Name>
+      <width>32</width>
+      <height>32</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>32</xNet>
+      <yNet>32</yNet>
+      <xAnim>0</xAnim>
+      <yAnim>0</yAnim>
+    </SpriteBase>
+    <SpriteBase xsi:type="SpriteTerrain">
+      <ID>ba001</ID>
+      <Type>1</Type>
+      <xPos>1</xPos>
+      <yPos>2</yPos>
+      <xStart>160</xStart>
+      <yStart>64</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\trees.png</spriteSheet>
+      <visible>true</visible>
+      <block>0</block>
+      <Name>Grass</Name>
+      <width>32</width>
+      <height>32</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>32</xNet>
+      <yNet>64</yNet>
+      <xAnim>0</xAnim>
+      <yAnim>0</yAnim>
+    </SpriteBase>
+    <SpriteBase xsi:type="SpriteTerrain">
+      <ID>ba002</ID>
+      <Type>1</Type>
+      <xPos>1</xPos>
+      <yPos>3</yPos>
+      <xStart>160</xStart>
+      <yStart>64</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\trees.png</spriteSheet>
+      <visible>true</visible>
+      <block>0</block>
+      <Name>Grass</Name>
+      <width>32</width>
+      <height>32</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>32</xNet>
+      <yNet>96</yNet>
+      <xAnim>0</xAnim>
+      <yAnim>0</yAnim>
+    </SpriteBase>
+    <SpriteBase xsi:type="SpriteTerrain">
+      <ID>ba003</ID>
+      <Type>3</Type>
+      <xPos>2</xPos>
+      <yPos>4</yPos>
+      <xStart>0</xStart>
+      <yStart>96</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\trees.png</spriteSheet>
+      <visible>true</visible>
+      <block>2</block>
+      <Name>Tree</Name>
+      <width>16</width>
+      <height>16</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>64</xNet>
+      <yNet>128</yNet>
+      <xAnim>0</xAnim>
+      <yAnim>6</yAnim>
+    </SpriteBase>
+    <SpriteBase xsi:type="SpriteDoor">
+      <ID>ba004</ID>
+      <Type>1</Type>
+      <xPos>4</xPos>
+      <yPos>4</yPos>
+      <xStart>311</xStart>
+      <yStart>789</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\cityspritesheet20lj.png</spriteSheet>
+      <visible>true</visible>
+      <block>0</block>
+      <Name>Grass</Name>
+      <width>32</width>
+      <height>32</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>128</xNet>
+      <yNet>128</yNet>
+      <newX>0</newX>
+      <newY>0</newY>
+      <file>Tree_Land.xml</file>
+    </SpriteBase>
+  </baseList>
+  <midList>
+    <SpriteBase xsi:type="SpritePerson">
+      <ID>mi000</ID>
+      <Type>6</Type>
+      <xPos>2</xPos>
+      <yPos>1</yPos>
+      <xStart>0</xStart>
+      <yStart>32</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\heromfoverworld.png</spriteSheet>
+      <visible>true</visible>
+      <block>2</block>
+      <Name>Beccah</Name>
+      <width>32</width>
+      <height>32</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>64</xNet>
+      <yNet>32</yNet>
+      <movement />
+      <TargX>0</TargX>
+      <TargY>0</TargY>
+      <xOri>2</xOri>
+      <yOri>1</yOri>
+      <dist>0</dist>
+      <transit>0</transit>
+      <ConvoGreet>
+        <convoText>
+          <Text>Hi, I'm Beccah.</Text>
+          <requirements>
+            <variable>
+              <name>Null</name>
+              <val>-1</val>
+            </variable>
+          </requirements>
+          <consequences>
+            <variable>
+              <name>Val2</name>
+              <val>0</val>
+            </variable>
+          </consequences>
+          <choices />
+          <type>Greeting</type>
+        </convoText>
+        <convoText>
+          <Text>Oh, you spoke to Chris?</Text>
+          <requirements>
+            <variable>
+              <name>Val1</name>
+              <val>0</val>
+            </variable>
+          </requirements>
+          <consequences />
+          <choices />
+          <type>Greeting</type>
+        </convoText>
+        <convoText>
+          <Text>You should speak to Chris</Text>
+          <requirements>
+            <variable>
+              <name>Val1</name>
+              <val>-1</val>
+            </variable>
+          </requirements>
+          <consequences />
+          <choices />
+          <type>Greeting</type>
+        </convoText>
+      </ConvoGreet>
+      <ConvoBattleStart />
+      <ConvoBattleEnd />
+      <ConvoFarewell />
+      <Items />
+      <pokeGroup />
+      <fight>false</fight>
+      <dirLook>1</dirLook>
+      <moveAction>0</moveAction>
+      <variant>0</variant>
+    </SpriteBase>
+    <SpriteBase xsi:type="SpritePerson">
+      <ID>mi001</ID>
+      <Type>6</Type>
+      <xPos>2</xPos>
+      <yPos>2</yPos>
+      <xStart>0</xStart>
+      <yStart>32</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\heromfoverworld.png</spriteSheet>
+      <visible>true</visible>
+      <block>2</block>
+      <Name>Nathan</Name>
+      <width>32</width>
+      <height>32</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>64</xNet>
+      <yNet>64</yNet>
+      <movement />
+      <TargX>0</TargX>
+      <TargY>0</TargY>
+      <xOri>2</xOri>
+      <yOri>2</yOri>
+      <dist>0</dist>
+      <transit>0</transit>
+      <ConvoGreet>
+        <convoText>
+          <Text>Hi, I'm Nathan.</Text>
+          <requirements />
+          <consequences>
+            <variable>
+              <name>ValN</name>
+              <val>0</val>
+            </variable>
+          </consequences>
+          <choices />
+          <type>Greeting</type>
+        </convoText>
+      </ConvoGreet>
+      <ConvoBattleStart />
+      <ConvoBattleEnd />
+      <ConvoFarewell />
+      <Items />
+      <pokeGroup>
+        <PokemonBase>
+          <Gender>false</Gender>
+          <ID>132</ID>
+          <variant>0</variant>
+          <Experience>0</Experience>
+          <baseExperience>1</baseExperience>
+          <Name>Mimic</Name>
+          <Level>5</Level>
+          <catchRate>1</catchRate>
+          <moves>
+            <Move>
+              <Name />
+              <Power>0</Power>
+              <Accuracy>0</Accuracy>
+              <PPMax>0</PPMax>
+              <PPCurrent>0</PPCurrent>
+              <TMHM>0</TMHM>
+              <Probability>0</Probability>
+              <Speed>0</Speed>
+            </Move>
+            <Move>
+              <Name />
+              <Power>0</Power>
+              <Accuracy>0</Accuracy>
+              <PPMax>0</PPMax>
+              <PPCurrent>0</PPCurrent>
+              <TMHM>0</TMHM>
+              <Probability>0</Probability>
+              <Speed>0</Speed>
+            </Move>
+            <Move>
+              <Name />
+              <Power>0</Power>
+              <Accuracy>0</Accuracy>
+              <PPMax>0</PPMax>
+              <PPCurrent>0</PPCurrent>
+              <TMHM>0</TMHM>
+              <Probability>0</Probability>
+              <Speed>0</Speed>
+            </Move>
+            <Move>
+              <Name />
+              <Power>0</Power>
+              <Accuracy>0</Accuracy>
+              <PPMax>0</PPMax>
+              <PPCurrent>0</PPCurrent>
+              <TMHM>0</TMHM>
+              <Probability>0</Probability>
+              <Speed>0</Speed>
+            </Move>
+          </moves>
+          <HP>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </HP>
+          <HPCurrent>1</HPCurrent>
+          <Attack>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </Attack>
+          <Defense>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </Defense>
+          <SpAtt>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </SpAtt>
+          <SpDef>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </SpDef>
+          <Speed>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </Speed>
+        </PokemonBase>
+      </pokeGroup>
+      <fight>false</fight>
+      <dirLook>1</dirLook>
+      <moveAction>0</moveAction>
+      <variant>0</variant>
+    </SpriteBase>
+    <SpriteBase xsi:type="SpriteDoor">
+      <ID>mi002</ID>
+      <Type>4</Type>
+      <xPos>4</xPos>
+      <yPos>4</yPos>
+      <xStart>0</xStart>
+      <yStart>96</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\cityspritesheet20lj.png</spriteSheet>
+      <visible>true</visible>
+      <block>0</block>
+      <Name>Door</Name>
+      <width>16</width>
+      <height>16</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>128</xNet>
+      <yNet>128</yNet>
+      <newX>0</newX>
+      <newY>0</newY>
+      <file>Pallet.xml</file>
+    </SpriteBase>
+  </midList>
+  <topList>
+    <SpriteBase xsi:type="SpriteTerrain">
+      <ID>to000</ID>
+      <Type>3</Type>
+      <xPos>2</xPos>
+      <yPos>3</yPos>
+      <xStart>0</xStart>
+      <yStart>80</yStart>
+      <spriteSheet>%PATH%\Resources\TileSets\trees.png</spriteSheet>
+      <visible>true</visible>
+      <block>2</block>
+      <Name>Tree</Name>
+      <width>16</width>
+      <height>16</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>64</xNet>
+      <yNet>96</yNet>
+      <xAnim>0</xAnim>
+      <yAnim>6</yAnim>
+    </SpriteBase>
+  </topList>
+  <changedSprites />
+</map>

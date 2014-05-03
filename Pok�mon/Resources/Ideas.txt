@@ -1,0 +1,19 @@
+base "public void OnUse()" method in item base class. Overrideable.
+	different for each type.
+	restorative items have "PPrestore, HPrestore, StatusHealType, Revive" values that get applied, along with other effects such as relationship effects (Bitter, Pokemon likes)
+	If "public bool useable" == false, then "addText("Professor Oak: Now is not the time for that");"
+
+	//need to work out link between item and gamewindow to do actions. Targetting etc. 
+	//maybe Use(Form parent) or Use(GameWindow parent)
+
+base "public void OnActivate()" method in sprite base class. Overrideable.
+	Greet	(If not greeted yet)
+	Heal	(0 - no, 1 - onetime, 2 - everytime)
+	Battle	(0 - no, 1- onetime, 2 - everytime)
+	Farewell Text
+
+//Map of sprites? Array? of Sprites?
+Sprites[,][] Map = new Sprites[width,height][mapLevels];
+CONVERT TO ABOVE
+
+//TODO Work out why enemy doesn't have it's stats set.

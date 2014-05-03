@@ -1,0 +1,50 @@
+TM01 - Focus Punch 	 Silph Co 5F
+TM02 - Dragon Claw 	 Victory Road
+TM03 - Water Pulse 	 Cerulean City Gym
+TM04 - Calm Mind 	 Saffron City Gym
+TM05 - Roar 	         Mt. Moon, Celadon City Mart
+TM06 - Toxic 	         Fuschia City Gym
+TM07 - Hail 	         Victory Road
+TM08 - Bulk Up 	 Silph Co 7F
+TM09 - Bullet Seed 	 Mt. Moon
+TM10 - Hidden Power 	 Found by using Pickup ability
+TM11 - Sunny Day 	 Safari Zone
+TM12 - Taunt 	         Team Rocket Hideout
+TM13 - Ice Beam 	 Celadon Game Corner
+TM14 - Blizzard 	 Pokemon Mansion
+TM15 - Hyper Beam 	 Celadon Mart
+TM16 - Light Screen 	 Celadon Mart (Roof)
+TM17 - Protect 	 Power Plant
+TM18 - Rain Dance 	 Route 15
+TM19 - Giga Drain 	 Celadon Gym
+TM20 - Safeguard 	 Celadon Mart (Roof)
+TM21 - Frustration 	 Team Rocket Hideout
+TM22 - Solarbeam 	 Pokemon Mansion
+TM23 - Iron Tail 	 Celadon Game Corner
+TM24 - Thunderbolt 	 Celadon Game Corner
+TM25 - Thunder 	 Power Plant
+TM26 - Earthquake 	 Viridian City Gym
+TM27 - Return 	         Route 12
+TM28 - Dig 	          Cerulean City, Celadon City Mart
+TM29 - Psychic 	 Saffron City
+TM30 - Shadow Ball 	 Celadon Game Corner
+TM31 - Brick Break 	 SS Anne, Celadon City Mart
+TM32 - Double Team 	 Safari Zone
+TM33 - Reflect 	 SS Anne, Celadon City Mart (Roof)
+TM34 - Shock Wave 	 Vermillion City Gym
+TM35 - Flamethrower 	 Celadon Game Corner
+TM36 - Sludge Bomb 	 Team Rocket HQ (Island 5)
+TM37 - Sandstorm 	 Victory Road
+TM38 - Fire Blast 	 Silph Co, Cinnabar Island Gym
+TM39 - Rock Tomb 	 Pewter City Gym, Silph Co
+TM40 - Aerial Ace 	 Route 9
+TM41 - Torment 	 Silph Co
+TM42 - Facade 	         Altering Cave (Island 6)
+TM43 - Secret Power 	 Celadon City Mart, Route 24
+TM44 - Rest 	         Route 9
+TM45 - Attract 	 Route 24, Celadon City Mart
+TM46 - Theif 	         Mt. Moon
+TM47 - Steel Wing 	 Safari Zone
+TM48 - Skill Swap 	 Route 12
+TM49 - Snatch 	         Team Rocket Hideout
+TM50 - Overheat 	 Victory Road

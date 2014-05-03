@@ -1,0 +1,34 @@
+public class SpriteBase
+{
+	private Image img = new bitmap(32,32);
+
+	public virtual void FromXml(xmlreader reader) {}
+	public virtual void onActivate(){}
+	public virtual void onStep()
+}
+
+public class SpritePerson : SpriteBase
+{
+	public override void FromXml(xmlreader reader){}
+	public override void onActivate(){}
+}
+
+public class SpriteItem : SpriteBase{}
+
+public class SpriteDoor : SpriteBase()
+{
+	public override void onStep(){}
+}
+
+public class SpritePokemon : SpriteBase {}
+
+public class SpriteTerrain : SpriteBase {}
+
+////////////////////////////////////////////////////////
+
+//when using MapLoader, get <Object Type="1" > 
+switch(reader.getattibutevalue("Type"))
+{
+	case "1": //Grass
+		SpriteBase sprite = new SpriteTerrain.FromXml(reader.readsubstring());
+		break;

@@ -1,0 +1,12 @@
+Dive Ball 	If underwater, a 3.5 times chance of catching a Pokémon otherwise its a Normal Chance of Catching a Pokémon 	Unknown
+Great Ball 	1.5x Chance of Catching a Pokémon than using a standard Pokéball 	Pokémarts everywhere from Lavender Town
+Luxury Ball 	Normal Chance of Catching a Pokémon, makes it easier for the Pokémon to like you 	Unknown
+Masterball 	Always captures the Pokémon. Only 1 	Silph Co.
+Nest Ball 	The Lower the Pokémon's Level, the Higher chance of capture 	Island 6
+Net Ball 	Normal Chance of Catching a Pokémon unless it's a Bug or Water type in which it's a 3x normal chance 	Unknown
+Pokéball 	Normal Chance of Catching a Pokémon 	Viridian, Pewter, Cerulean, and Vermillion Pokémarts
+Premium Ball 	Normal Chance of Catching a Pokémon 	Unknown
+Repeat Ball 	A 3 times chance of capturing Pokémon if you already have one of the same breed, otherwise it's a Normal Chance of Catching a Pokémon 	Unknown
+Safari Ball 	1.5x Chance of Catching a Pokémon. Safari Zone Only 	Safari Zone
+Timer Ball 	For Every Ten Turns in battle, the chance of catching the Pokémon rises 	Unknown
+Ultra Ball 	2x Chance of Catching a Pokémon than using a standard Pokéball 	Pokémarts everywhere from Fuschia City 

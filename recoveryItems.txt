@@ -1,0 +1,32 @@
+Picture: 	Name: 	Effect: 	Location:
+	Antidote 	Recovers from Poison 	PokéMarts/Viridian Forest/Mt. Moon/Celadon Dept. Store
+	Awakening 	Recovers from Sleep 	PokéMarts/Route 11/Pokémon Tower/Celadon Dept. Store
+	Berry Juice 	Recovers 20 HP 	Ruby/Sapphire
+	Blue Flute 	Recovers from Sleep 	Ruby/Sapphire
+	Burn Heal 	Recovers from Burn 	PokéMarts/Route 9/Celadon Dept. Store
+	Elixer 	Recovers 10 PP for all Moves 	Pokémon Tower/Power Plant/Six Island Water Path
+	Energy Root 	Recovers 200 HP. Bitter 	Cerulean City
+	Energypowder 	Recovers 50 HP. Bitter 	Cerulean City
+	Ether 	Recovers 10 PP for a Move 	Route 2/S.S. Anne/Celadon City/Kindle Road
+	Fresh Water 	Recovers 50 HP 	Celadon Dept. Store/Two Island PokéMart
+	Full Heal 	Recovers from any Status Ailement 	PokéMarts/Silph Co./Berry Forest/Victory Road
+	Full Restore 	Fully Recovers HP and Status Conditions 	Safari Zone/Pokémom Mansion/Three Island/Icefall Cave/Six Island/Cerulean Cave
+	Heal Powder 	Recovers Any Status Condition. Bitter 	Cerulean City
+	Hyper Potion 	Recovers 200 HP 	PokéMarts/Rocket Hideout/Silph Co.
+	Ice Heal 	Recovers from being Frozen 	PokéMarts/Celadon Dept. Store/Seafoam Islands
+	Lava Cookie 	Recovers any Status Condition 	Two Island PokéMart
+	Lemonade 	Recovers 80 HP 	Celadon Dept. Store/Two Island PokéMart
+	Max Elixer 	Recovers all PP for all Moves 	Berry Forest/Sevault Canyon/Cerulean Cave
+	Max Ether 	Recovers all PP for a Move 	Rock Tunnel/Rocket Hideout/Berry Forest
+	Max Potion 	Recovers All HP 	PokéMarts/Safari Zone/Power Plant/Pokémon Mansion/Five Island
+	Max Revive 	Restores a Fainted Pokémon to it's Max HP 	Silph. Co/Safari Zone/Victory Road/Lost Cave/Cerulean Cave
+	Moo Moo Milk 	Recovers 100 HP 	Two Island PokéMart
+	Paralyz Heal 	Recovers from Paralysis 	PokéMarts/Route 2/Mt. Moon/Celadon Dept. Store
+	Potion 	Recovers 20 HP 	PokéMarts/Route 1/Viridian City/Viridian Forest/Mt. Moon
+	Red Flute 	Recovers from Attraction 	Ruby/Sapphire
+	Revival Herb 	Recovers a Fainted Pokémon. Bitter 	Cerulean City
+	Revive 	Restores a Fainted Pokémon to 1/2 of it's Max HP 	PokéMarts/Mt. Moon/Rock Tunnel/Celadon Dept. Store/Seafoam Islands/Two Island
+	Sacred Ash 	Revives all Fainted Pokémon 	Navel Cavern right after battling Ho-oh (Use Itemfinder)
+	Soda Pop 	Recovers 60 HP 	Celadon Dept. Store/Two Island PokéMart
+	Super Potion 	Recovers 50 HP 	PokéMarts/S.S. Anne/Celadon Dept. Store/Rocket Hideout
+	Yellow Flute 	Recovers from Confusion 	Ruby/Sapphire
