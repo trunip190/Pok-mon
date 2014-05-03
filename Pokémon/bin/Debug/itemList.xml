@@ -1,0 +1,1992 @@
+<?xml version="1.0"?>
+<ArrayOfInventoryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Potion </Name>
+    <Description>Recovers 20 HP </Description>
+    <NameNet />
+    <ID>H001</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Super Potion </Name>
+    <Description>Recovers 50 HP </Description>
+    <NameNet />
+    <ID>H002</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Hyper Potion </Name>
+    <Description>Recovers 200 HP </Description>
+    <NameNet />
+    <ID>H003</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Max Potion </Name>
+    <Description>Recovers All HP </Description>
+    <NameNet />
+    <ID>H004</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Full Restore </Name>
+    <Description>Fully Recovers HP and Status Conditions </Description>
+    <NameNet />
+    <ID>H005</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Berry Juice </Name>
+    <Description>Recovers 20 HP </Description>
+    <NameNet />
+    <ID>H006</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Fresh Water </Name>
+    <Description>Recovers 50 HP </Description>
+    <NameNet />
+    <ID>H007</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Soda Pop </Name>
+    <Description>Recovers 60 HP </Description>
+    <NameNet />
+    <ID>H008</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Lemonade </Name>
+    <Description>Recovers 80 HP </Description>
+    <NameNet />
+    <ID>H009</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Max Revive </Name>
+    <Description>Restores a Fainted Pokémon to it's Max HP </Description>
+    <NameNet />
+    <ID>H010</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Revive </Name>
+    <Description>Restores a Fainted Pokémon to 1/2 of it's Max HP </Description>
+    <NameNet />
+    <ID>H011</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Moo Moo Milk </Name>
+    <Description>Recovers 100 HP </Description>
+    <NameNet />
+    <ID>H012</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Ether </Name>
+    <Description>Recovers 10 PP for a Move </Description>
+    <NameNet />
+    <ID>H013</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Elixer </Name>
+    <Description>Recovers 10 PP for all Moves </Description>
+    <NameNet />
+    <ID>H014</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Max Ether </Name>
+    <Description>Recovers all PP for a Move </Description>
+    <NameNet />
+    <ID>H015</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Max Elixer </Name>
+    <Description>Recovers all PP for all Moves </Description>
+    <NameNet />
+    <ID>H016</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Antidote </Name>
+    <Description>Recovers from Poison </Description>
+    <NameNet />
+    <ID>H017</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Awakening </Name>
+    <Description>Recovers from Sleep </Description>
+    <NameNet />
+    <ID>H018</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Blue Flute </Name>
+    <Description>Recovers from Sleep </Description>
+    <NameNet />
+    <ID>H019</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Burn Heal </Name>
+    <Description>Recovers from Burn </Description>
+    <NameNet />
+    <ID>H020</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Ice Heal </Name>
+    <Description>Recovers from being Frozen </Description>
+    <NameNet />
+    <ID>H021</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Paralyz Heal </Name>
+    <Description>Recovers from Paralysis </Description>
+    <NameNet />
+    <ID>H022</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Red Flute </Name>
+    <Description>Recovers from Attraction </Description>
+    <NameNet />
+    <ID>H023</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Yellow Flute </Name>
+    <Description>Recovers from Confusion </Description>
+    <NameNet />
+    <ID>H024</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Full Heal </Name>
+    <Description>Recovers from any Status Ailement </Description>
+    <NameNet />
+    <ID>H025</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Lava Cookie </Name>
+    <Description>Recovers any Status Condition </Description>
+    <NameNet />
+    <ID>H026</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Sacred Ash </Name>
+    <Description>Revives all Fainted Pokémon </Description>
+    <NameNet />
+    <ID>H027</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Heal Powder </Name>
+    <Description>Recovers Any Status Condition. Bitter </Description>
+    <NameNet />
+    <ID>H028</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Revival Herb </Name>
+    <Description>Recovers a Fainted Pokémon. Bitter </Description>
+    <NameNet />
+    <ID>H029</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Energy Root </Name>
+    <Description>Recovers 200 HP. Bitter </Description>
+    <NameNet />
+    <ID>H030</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="RecoveryItem">
+    <Name>Energypowder </Name>
+    <Description>Recovers 50 HP. Bitter </Description>
+    <NameNet />
+    <ID>H031</ID>
+    <count>0</count>
+    <type>1</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Pokéball </Name>
+    <Description>Normal Chance of Catching a Pokémon </Description>
+    <NameNet />
+    <ID>P01</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Great Ball </Name>
+    <Description>1.5x Chance of Catching a Pokémon than using a standard Pokéball </Description>
+    <NameNet />
+    <ID>P02</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>1.5</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Ultra Ball </Name>
+    <Description>2x Chance of Catching a Pokémon than using a standard Pokéball </Description>
+    <NameNet />
+    <ID>P03</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>2</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Masterball </Name>
+    <Description>Always captures the Pokémon. Only 1 </Description>
+    <NameNet />
+    <ID>P04</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>255</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Premium Ball </Name>
+    <Description>Normal Chance of Catching a Pokémon </Description>
+    <NameNet />
+    <ID>P05</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Dive Ball </Name>
+    <Description>If underwater, a 3.5 times chance of catching a Pokémon otherwise its a Normal Chance of Catching a Pokémon </Description>
+    <NameNet />
+    <ID>P06</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>0</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Luxury Ball </Name>
+    <Description>Normal Chance of Catching a Pokémon, makes it easier for the Pokémon to like you </Description>
+    <NameNet />
+    <ID>P07</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>0</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Nest Ball </Name>
+    <Description>The Lower the Pokémon's Level, the Higher chance of capture </Description>
+    <NameNet />
+    <ID>P08</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>0</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Net Ball </Name>
+    <Description>Normal Chance of Catching a Pokémon unless it's a Bug or Water type in which it's a 3x normal chance </Description>
+    <NameNet />
+    <ID>P09</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>0</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Repeat Ball </Name>
+    <Description>A 3 times chance of capturing Pokémon if you already have one of the same breed, otherwise it's a Normal Chance of Catching a Pokémon </Description>
+    <NameNet />
+    <ID>P10</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>0</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Safari Ball </Name>
+    <Description>1.5x Chance of Catching a Pokémon. Safari Zone Only </Description>
+    <NameNet />
+    <ID>P11</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>1.5</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Pokeball">
+    <Name>Timer Ball </Name>
+    <Description>For Every Ten Turns in battle, the chance of catching the Pokémon rises </Description>
+    <NameNet />
+    <ID>P12</ID>
+    <count>0</count>
+    <type>2</type>
+    <Power>0</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Focus Punch</Name>
+    <Description>TM01 - Focus Punch</Description>
+    <NameNet />
+    <ID>TM01</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Dragon Claw</Name>
+    <Description>TM02 - Dragon Claw</Description>
+    <NameNet />
+    <ID>TM02</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Water Pulse</Name>
+    <Description>TM03 - Water Pulse</Description>
+    <NameNet />
+    <ID>TM03</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Calm Mind</Name>
+    <Description>TM04 - Calm Mind</Description>
+    <NameNet />
+    <ID>TM04</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Roar</Name>
+    <Description>TM05 - Roar</Description>
+    <NameNet />
+    <ID>TM05</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Toxic</Name>
+    <Description>TM06 - Toxic</Description>
+    <NameNet />
+    <ID>TM06</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Hail</Name>
+    <Description>TM07 - Hail</Description>
+    <NameNet />
+    <ID>TM07</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Bulk Up</Name>
+    <Description>TM08 - Bulk Up</Description>
+    <NameNet />
+    <ID>TM08</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Bullet Seed</Name>
+    <Description>TM09 - Bullet Seed</Description>
+    <NameNet />
+    <ID>TM09</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Hidden Power</Name>
+    <Description>TM10 - Hidden Power</Description>
+    <NameNet />
+    <ID>TM10</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Sunny Day</Name>
+    <Description>TM11 - Sunny Day</Description>
+    <NameNet />
+    <ID>TM11</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Taunt</Name>
+    <Description>TM12 - Taunt</Description>
+    <NameNet />
+    <ID>TM12</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Ice Beam</Name>
+    <Description>TM13 - Ice Beam</Description>
+    <NameNet />
+    <ID>TM13</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Blizzard</Name>
+    <Description>TM14 - Blizzard</Description>
+    <NameNet />
+    <ID>TM14</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Hyper Beam</Name>
+    <Description>TM15 - Hyper Beam</Description>
+    <NameNet />
+    <ID>TM15</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Light Screen</Name>
+    <Description>TM16 - Light Screen</Description>
+    <NameNet />
+    <ID>TM16</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Protect</Name>
+    <Description>TM17 - Protect</Description>
+    <NameNet />
+    <ID>TM17</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Rain Dance</Name>
+    <Description>TM18 - Rain Dance</Description>
+    <NameNet />
+    <ID>TM18</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Giga Drain</Name>
+    <Description>TM19 - Giga Drain</Description>
+    <NameNet />
+    <ID>TM19</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Safeguard</Name>
+    <Description>TM20 - Safeguard</Description>
+    <NameNet />
+    <ID>TM20</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Frustration</Name>
+    <Description>TM21 - Frustration</Description>
+    <NameNet />
+    <ID>TM21</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Solarbeam</Name>
+    <Description>TM22 - Solarbeam</Description>
+    <NameNet />
+    <ID>TM22</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Iron Tail</Name>
+    <Description>TM23 - Iron Tail</Description>
+    <NameNet />
+    <ID>TM23</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Thunderbolt</Name>
+    <Description>TM24 - Thunderbolt</Description>
+    <NameNet />
+    <ID>TM24</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Thunder</Name>
+    <Description>TM25 - Thunder</Description>
+    <NameNet />
+    <ID>TM25</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Earthquake</Name>
+    <Description>TM26 - Earthquake</Description>
+    <NameNet />
+    <ID>TM26</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Return</Name>
+    <Description>TM27 - Return</Description>
+    <NameNet />
+    <ID>TM27</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Dig</Name>
+    <Description>TM28 - Dig</Description>
+    <NameNet />
+    <ID>TM28</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Psychic</Name>
+    <Description>TM29 - Psychic</Description>
+    <NameNet />
+    <ID>TM29</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Shadow Ball</Name>
+    <Description>TM30 - Shadow Ball</Description>
+    <NameNet />
+    <ID>TM30</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Brick Break</Name>
+    <Description>TM31 - Brick Break</Description>
+    <NameNet />
+    <ID>TM31</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Double Team</Name>
+    <Description>TM32 - Double Team</Description>
+    <NameNet />
+    <ID>TM32</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Reflect</Name>
+    <Description>TM33 - Reflect</Description>
+    <NameNet />
+    <ID>TM33</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Shock Wave</Name>
+    <Description>TM34 - Shock Wave</Description>
+    <NameNet />
+    <ID>TM34</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Flamethrower</Name>
+    <Description>TM35 - Flamethrower</Description>
+    <NameNet />
+    <ID>TM35</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Sludge Bomb</Name>
+    <Description>TM36 - Sludge Bomb</Description>
+    <NameNet />
+    <ID>TM36</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Sandstorm</Name>
+    <Description>TM37 - Sandstorm</Description>
+    <NameNet />
+    <ID>TM37</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Fire Blast</Name>
+    <Description>TM38 - Fire Blast</Description>
+    <NameNet />
+    <ID>TM38</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Rock Tomb</Name>
+    <Description>TM39 - Rock Tomb</Description>
+    <NameNet />
+    <ID>TM39</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Aerial Ace</Name>
+    <Description>TM40 - Aerial Ace</Description>
+    <NameNet />
+    <ID>TM40</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Torment</Name>
+    <Description>TM41 - Torment</Description>
+    <NameNet />
+    <ID>TM41</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Facade</Name>
+    <Description>TM42 - Facade</Description>
+    <NameNet />
+    <ID>TM42</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Secret Power</Name>
+    <Description>TM43 - Secret Power</Description>
+    <NameNet />
+    <ID>TM43</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Rest</Name>
+    <Description>TM44 - Rest</Description>
+    <NameNet />
+    <ID>TM44</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Attract</Name>
+    <Description>TM45 - Attract</Description>
+    <NameNet />
+    <ID>TM45</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Theif</Name>
+    <Description>TM46 - Theif</Description>
+    <NameNet />
+    <ID>TM46</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Steel Wing</Name>
+    <Description>TM47 - Steel Wing</Description>
+    <NameNet />
+    <ID>TM47</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Skill Swap</Name>
+    <Description>TM48 - Skill Swap</Description>
+    <NameNet />
+    <ID>TM48</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Snatch</Name>
+    <Description>TM49 - Snatch</Description>
+    <NameNet />
+    <ID>TM49</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="TMItem">
+    <Name>Overheat</Name>
+    <Description>TM50 - Overheat</Description>
+    <NameNet />
+    <ID>TM50</ID>
+    <count>0</count>
+    <type>3</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Cheri Berry</Name>
+    <Description>Heals Paralysis</Description>
+    <NameNet />
+    <ID>BE1</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Chesto Berry</Name>
+    <Description>Heals Sleeping</Description>
+    <NameNet />
+    <ID>BE2</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Pecha Berry</Name>
+    <Description>Heals Poison</Description>
+    <NameNet />
+    <ID>BE3</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Rawst Berry</Name>
+    <Description>Heals Burn</Description>
+    <NameNet />
+    <ID>BE4</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Aspear Berry</Name>
+    <Description>Heals Frozen Status</Description>
+    <NameNet />
+    <ID>BE5</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Leppa Berry</Name>
+    <Description>Recovers 10PP to an attack</Description>
+    <NameNet />
+    <ID>BE6</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Oran Berry</Name>
+    <Description>Recovers 10HP</Description>
+    <NameNet />
+    <ID>BE7</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Persim Berry</Name>
+    <Description>Heals Confusion</Description>
+    <NameNet />
+    <ID>BE8</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Lum Berry</Name>
+    <Description>Heals Any Status Condition</Description>
+    <NameNet />
+    <ID>BE9</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Sitrus Berry</Name>
+    <Description>Recovers 30HP</Description>
+    <NameNet />
+    <ID>BE10</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Figy Berry</Name>
+    <Description>Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Spicy Flavour</Description>
+    <NameNet />
+    <ID>BE11</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Wiki Berry</Name>
+    <Description>Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Dry Flavour</Description>
+    <NameNet />
+    <ID>BE12</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Mago Berry</Name>
+    <Description>Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Sweet Flavour</Description>
+    <NameNet />
+    <ID>BE13</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Aguav Berry</Name>
+    <Description>Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Bitter Flavour</Description>
+    <NameNet />
+    <ID>BE14</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Iapapa Berry</Name>
+    <Description>Recovers 1/8 HP and confuses any PokÃ©mon that doesnt like Sour Flavour</Description>
+    <NameNet />
+    <ID>BE15</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Razz Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE16</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Bluk Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE17</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Nanab Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE18</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Wepear Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE19</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Pinap Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE20</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Pomeg Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE21</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Kelpsy Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE22</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Qualot Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE23</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Hondew Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE24</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Grepa Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE25</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Tamato Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE26</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Cornn Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE27</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Magost Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE28</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Rabuta Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE29</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Nomel Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE30</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Spelon Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE31</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Pamtre Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE32</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Watmel Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE33</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Durin Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE34</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Belue Berry</Name>
+    <Description>Plant in the Earth to grow Berries for PokÃ©blocks</Description>
+    <NameNet />
+    <ID>BE35</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Liechi Berry</Name>
+    <Description>Raises Attack when HP is below 1/3</Description>
+    <NameNet />
+    <ID>BE36</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Ganlon Berry</Name>
+    <Description>Raises Defense when HP is below 1/3</Description>
+    <NameNet />
+    <ID>BE37</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Salac Berry</Name>
+    <Description>Raises Speed when HP is below 1/3</Description>
+    <NameNet />
+    <ID>BE38</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Petaya Berry</Name>
+    <Description>Raises Special Attack when HP is below 1/3</Description>
+    <NameNet />
+    <ID>BE39</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Apicot Berry</Name>
+    <Description>Raises Special Defense when HP is below 1/3</Description>
+    <NameNet />
+    <ID>BE40</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Lansat Berry</Name>
+    <Description>Raises Critical Hit Ratio when HP is below 1/3</Description>
+    <NameNet />
+    <ID>BE41</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Starf Berry</Name>
+    <Description>Raises Any Stat when HP is below 1/3</Description>
+    <NameNet />
+    <ID>BE42</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="Berry">
+    <Name>Enigma Berry</Name>
+    <Description>Morphs into E-Reader Berries</Description>
+    <NameNet />
+    <ID>BE43</ID>
+    <count>0</count>
+    <type>4</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Amulet Coin</Name>
+    <Description>Double Money is Earnt from Battles </Description>
+    <NameNet />
+    <ID>AT001</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Black Belt</Name>
+    <Description>Any Fighting Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT002</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>BlackGlasses</Name>
+    <Description>Any Dark Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT003</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Blue Scarf</Name>
+    <Description>When Attached, Raises Beauty Stat in Contests </Description>
+    <NameNet />
+    <ID>AT004</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Brightpowder</Name>
+    <Description>Lowers Opponent's Accuracy </Description>
+    <NameNet />
+    <ID>AT005</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Charcoal</Name>
+    <Description>Any Fire Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT006</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Choice Band</Name>
+    <Description>Multiplies 1st Move Power by 1.5 if Physical </Description>
+    <NameNet />
+    <ID>AT007</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Cleanse Tag</Name>
+    <Description>Wild Pokémon Encounter Rate Lowers </Description>
+    <NameNet />
+    <ID>AT008</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>DeepSeaScale</Name>
+    <Description>Clamperl's Special Defense increases by 100%. Evolves Clamperl to Gorebyss </Description>
+    <NameNet />
+    <ID>AT009</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>DeepSeaTooth</Name>
+    <Description>Clamperl's Special Attack increases by 100%. Evolves Clamperl to Huntail </Description>
+    <NameNet />
+    <ID>AT010</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Dragon Fang</Name>
+    <Description>Any Dragon Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT011</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Dragon Scale</Name>
+    <Description>A Scale held by Dragon Types. Evolves Seadra into Kingdra when traded </Description>
+    <NameNet />
+    <ID>AT012</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Everstone</Name>
+    <Description>Stops Evolution </Description>
+    <NameNet />
+    <ID>AT013</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Exp. Share</Name>
+    <Description>This Pokémon gets EXP from battle even if it isnt used </Description>
+    <NameNet />
+    <ID>AT014</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Focus Band</Name>
+    <Description>May prevent fainting </Description>
+    <NameNet />
+    <ID>AT015</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Green Scarf</Name>
+    <Description>When Attached, Raises Smart Stat in Contests </Description>
+    <NameNet />
+    <ID>AT016</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Hard Stone</Name>
+    <Description>Any Rock Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT017</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>King's Rock</Name>
+    <Description>May cause Opponent to Flinch. Used to evolve Poliwhirl and Slowpoke </Description>
+    <NameNet />
+    <ID>AT018</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Lax Incense</Name>
+    <Description>Enemy's Accuracy is lowered by 5%. Attach to Female Wobbuffet and breed to get Wynaut </Description>
+    <NameNet />
+    <ID>AT019</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Leftovers</Name>
+    <Description>HP Increases by 1/16th each turn </Description>
+    <NameNet />
+    <ID>AT020</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Light Ball</Name>
+    <Description>Pikachu's Special Attack increases by 100% </Description>
+    <NameNet />
+    <ID>AT021</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Lucky Egg</Name>
+    <Description>Pokémon this Item is attached to gets more EXP in battle </Description>
+    <NameNet />
+    <ID>AT022</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Lucky Punch</Name>
+    <Description>If attached to Chansey, Critical Hit Ratio Rises </Description>
+    <NameNet />
+    <ID>AT023</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Macho Brace</Name>
+    <Description>Lowers Speed but increases Effort Values </Description>
+    <NameNet />
+    <ID>AT024</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Magnet</Name>
+    <Description>Any Electric Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT025</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Mental Herb</Name>
+    <Description>Prevents Attraction </Description>
+    <NameNet />
+    <ID>AT026</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Metal Coat</Name>
+    <Description>Any Steel Type Move's Power is increased by 10%. Evolves Onix + Scyther when traded </Description>
+    <NameNet />
+    <ID>AT027</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Metal Powder</Name>
+    <Description>If attached to Ditto, Ditto's Defense + Special Defense is Raised by 50% </Description>
+    <NameNet />
+    <ID>AT028</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Miracle Seed</Name>
+    <Description>Any Grass Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT029</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Mystic Water</Name>
+    <Description>Any Water Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT030</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>NeverMeltIce</Name>
+    <Description>Any Ice Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT031</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Pink Scarf</Name>
+    <Description>When Attached, Raises Cute Stat in Contests </Description>
+    <NameNet />
+    <ID>AT032</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Poison Barb</Name>
+    <Description>Any Poison Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT033</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Quick Claw</Name>
+    <Description>The Pokémon holding this may attack first </Description>
+    <NameNet />
+    <ID>AT034</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Red Scarf</Name>
+    <Description>When Attached, Raises Cool Stat in Contests </Description>
+    <NameNet />
+    <ID>AT035</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Scope Lens</Name>
+    <Description>Increases Chances of a Critical Hit </Description>
+    <NameNet />
+    <ID>AT036</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Sea Incense</Name>
+    <Description>Any Water Type Move's Power is increased by 5%. Attach to Female Marill and breed to get Azurill </Description>
+    <NameNet />
+    <ID>AT037</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Sharp Beak</Name>
+    <Description>Any Flying Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT038</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Shell Bell</Name>
+    <Description>Raises HP by 1/8th of the damage inflicted onto the Opponent </Description>
+    <NameNet />
+    <ID>AT039</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Silk Scarf</Name>
+    <Description>Any Normal Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT040</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Silverpowder</Name>
+    <Description>Any Bug Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT041</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Smoke Ball</Name>
+    <Description>You will always run from Wild Pokémon </Description>
+    <NameNet />
+    <ID>AT042</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Soft Sand</Name>
+    <Description>Any Ground Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT043</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Soothe Bell</Name>
+    <Description>Happiness Level Raises Easier </Description>
+    <NameNet />
+    <ID>AT044</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Soul Dew</Name>
+    <Description>Raises Latios' Special Defense by 50%. Raises Latias' Special Attack by 50%. </Description>
+    <NameNet />
+    <ID>AT045</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Spell Tag</Name>
+    <Description>Any Ghost Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT046</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Stick</Name>
+    <Description>If attached to Farfetch'd, Critical Hit Ratio Rises </Description>
+    <NameNet />
+    <ID>AT047</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Thick Club</Name>
+    <Description>If attached to Cubone or Marowak, their Attack rises by 100% </Description>
+    <NameNet />
+    <ID>AT048</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>TwistedSpoon</Name>
+    <Description>Any Psychic Type Move's Power is increased by 10% </Description>
+    <NameNet />
+    <ID>AT049</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Up-Grade</Name>
+    <Description>Evolves Porygon into Porygon2 when traded </Description>
+    <NameNet />
+    <ID>AT050</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>White Herb</Name>
+    <Description>Cures any Status Condition </Description>
+    <NameNet />
+    <ID>AT051</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="HoldItem">
+    <Name>Yellow Scarf</Name>
+    <Description>When Attached, Raises Tough Stat in Contests </Description>
+    <NameNet />
+    <ID>AT052</ID>
+    <count>0</count>
+    <type>5</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Aurora Ticket </Name>
+    <Description>Allows you to go to Island 9 - Birth Island </Description>
+    <NameNet />
+    <ID>KEY001</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Berry Pouch </Name>
+    <Description>Oraganises and holds your Berries </Description>
+    <NameNet />
+    <ID>KEY002</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Bike </Name>
+    <Description>Allows for Fast Travel </Description>
+    <NameNet />
+    <ID>KEY003</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Bike Voucher </Name>
+    <Description>Trade for a Bike </Description>
+    <NameNet />
+    <ID>KEY004</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Card Key </Name>
+    <Description>Unlocks Doors in Silph. Co. </Description>
+    <NameNet />
+    <ID>KEY005</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Coin Case </Name>
+    <Description>Holds Game Corner Coins </Description>
+    <NameNet />
+    <ID>KEY006</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Dome Fossil </Name>
+    <Description>Ressurrects into Kabuto </Description>
+    <NameNet />
+    <ID>KEY007</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Elevator Key </Name>
+    <Description>Powers the Elevator </Description>
+    <NameNet />
+    <ID>KEY008</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Gold Teeth </Name>
+    <Description>The Warden's Gold Teeth </Description>
+    <NameNet />
+    <ID>KEY009</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Good Rod </Name>
+    <Description>Hooks Water Pokémon </Description>
+    <NameNet />
+    <ID>KEY010</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Helix Fossil </Name>
+    <Description>Ressurrects into Omanyte </Description>
+    <NameNet />
+    <ID>KEY011</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Itemfinder </Name>
+    <Description>Finds Hidden Items </Description>
+    <NameNet />
+    <ID>KEY012</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Meteorite </Name>
+    <Description>Contains Cosmic Energy - Trade for Moonstone on Island 2 </Description>
+    <NameNet />
+    <ID>KEY013</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>MysticTicket </Name>
+    <Description>Allows you to go to Island 8 - Navel Cavern </Description>
+    <NameNet />
+    <ID>KEY014</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Oak's Parcel </Name>
+    <Description>Parcel To Give To Oak </Description>
+    <NameNet />
+    <ID>KEY015</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Old Amber </Name>
+    <Description>Ressurrects into Aerodactyl </Description>
+    <NameNet />
+    <ID>KEY016</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Old Rod </Name>
+    <Description>Hooks Water Pokémon </Description>
+    <NameNet />
+    <ID>KEY017</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Pokéflute </Name>
+    <Description>Wakes Sleeping Pokémon </Description>
+    <NameNet />
+    <ID>KEY018</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Powder Jar </Name>
+    <Description>Allows you to Crush Berries </Description>
+    <NameNet />
+    <ID>KEY019</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Rainbow Pass </Name>
+    <Description>Allows You to go to Rainbow Islands 4, 5, 6 + 7 </Description>
+    <NameNet />
+    <ID>KEY020</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Ruby Plate </Name>
+    <Description>Powers Time Machine </Description>
+    <NameNet />
+    <ID>KEY021</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>S.S. Ticket </Name>
+    <Description>Allows You To Board the S.S. Anne </Description>
+    <NameNet />
+    <ID>KEY022</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Sapphire Plate </Name>
+    <Description>Powers Time Machine </Description>
+    <NameNet />
+    <ID>KEY023</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Secret Key </Name>
+    <Description>Unlock's Cinnibar Gym </Description>
+    <NameNet />
+    <ID>KEY024</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Silph Scope </Name>
+    <Description>Allows you to see Ghost Pokémon </Description>
+    <NameNet />
+    <ID>KEY025</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Super Rod </Name>
+    <Description>Hooks Water Pokémon </Description>
+    <NameNet />
+    <ID>KEY026</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Tea </Name>
+    <Description>Allows you to go into Saffron </Description>
+    <NameNet />
+    <ID>KEY027</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Teachy TV </Name>
+    <Description>Teaches you how to play the game </Description>
+    <NameNet />
+    <ID>KEY028</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>TM Case </Name>
+    <Description>Oraganises and holds your TMs </Description>
+    <NameNet />
+    <ID>KEY029</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Town Map </Name>
+    <Description>Allows you to view Kanto + Rainbow Islands </Description>
+    <NameNet />
+    <ID>KEY030</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Tri Pass </Name>
+    <Description>Allows You to go to Rainbow Islands 1, 2 + 3 whenever you want </Description>
+    <NameNet />
+    <ID>KEY031</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>Voice Checker </Name>
+    <Description>Keeps Track of Trainers and signs </Description>
+    <NameNet />
+    <ID>KEY032</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+  <inventoryItem xsi:type="KeyItem">
+    <Name>VS Seeker </Name>
+    <Description>Sees if Trainers want to re-match </Description>
+    <NameNet />
+    <ID>KEY033</ID>
+    <count>0</count>
+    <type>6</type>
+    <Power>1</Power>
+  </inventoryItem>
+</ArrayOfInventoryItem>

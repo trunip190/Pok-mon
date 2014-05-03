@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>MapName</name>
+  <width>10</width>
+  <height>10</height>
+  <floor />
+  <baseList />
+  <midList>
+    <SpriteBase xsi:type="SpritePerson">
+      <Type>6</Type>
+      <xPos>2</xPos>
+      <yPos>2</yPos>
+      <xStart>0</xStart>
+      <yStart>0</yStart>
+      <spriteSheet>C:\users\soi\dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Release\Resources\TileSets\OverworldItems.png</spriteSheet>
+      <visible>true</visible>
+      <block>0</block>
+      <Name>Matthew</Name>
+      <width>32</width>
+      <height>32</height>
+      <flip>false</flip>
+      <xTarg>0</xTarg>
+      <yTarg>0</yTarg>
+      <xNet>64</xNet>
+      <yNet>64</yNet>
+      <movement />
+      <TargX>0</TargX>
+      <TargY>0</TargY>
+      <ConvoGreet />
+      <ConvoBattleStart />
+      <ConvoBattleEnd />
+      <ConvoFarewell />
+      <Items />
+      <pokeGroup>
+        <PokemonBase>
+          <Gender>true</Gender>
+          <ID>1</ID>
+          <variant>0</variant>
+          <Experience>0</Experience>
+          <baseExperience>1</baseExperience>
+          <Name>Bulby</Name>
+          <Level>2</Level>
+          <catchRate>1</catchRate>
+          <moves>
+            <Move>
+              <Name />
+              <Power>0</Power>
+              <Accuracy>0</Accuracy>
+              <PPMax>0</PPMax>
+              <PPCurrent>0</PPCurrent>
+              <TMHM>0</TMHM>
+              <Probability>0</Probability>
+              <Speed>0</Speed>
+            </Move>
+            <Move>
+              <Name />
+              <Power>0</Power>
+              <Accuracy>0</Accuracy>
+              <PPMax>0</PPMax>
+              <PPCurrent>0</PPCurrent>
+              <TMHM>0</TMHM>
+              <Probability>0</Probability>
+              <Speed>0</Speed>
+            </Move>
+            <Move>
+              <Name />
+              <Power>0</Power>
+              <Accuracy>0</Accuracy>
+              <PPMax>0</PPMax>
+              <PPCurrent>0</PPCurrent>
+              <TMHM>0</TMHM>
+              <Probability>0</Probability>
+              <Speed>0</Speed>
+            </Move>
+            <Move>
+              <Name />
+              <Power>0</Power>
+              <Accuracy>0</Accuracy>
+              <PPMax>0</PPMax>
+              <PPCurrent>0</PPCurrent>
+              <TMHM>0</TMHM>
+              <Probability>0</Probability>
+              <Speed>0</Speed>
+            </Move>
+          </moves>
+          <HP>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </HP>
+          <HPCurrent>1</HPCurrent>
+          <Attack>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </Attack>
+          <Defense>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </Defense>
+          <SpAtt>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </SpAtt>
+          <SpDef>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </SpDef>
+          <Speed>
+            <BaseStat>0</BaseStat>
+            <IV>0</IV>
+            <EV>0</EV>
+            <NetStat>0</NetStat>
+          </Speed>
+        </PokemonBase>
+      </pokeGroup>
+      <fight>false</fight>
+      <dirLook>1</dirLook>
+      <moveAction>0</moveAction>
+      <variant>0</variant>
+      <xOri>2</xOri>
+      <yOri>2</yOri>
+      <dist>2</dist>
+      <transit>0</transit>
+    </SpriteBase>
+  </midList>
+  <topList />
+</map>
